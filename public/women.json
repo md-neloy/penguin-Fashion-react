@@ -1,0 +1,44 @@
+[
+  {
+    "id": 4,
+    "title": "Yellow Coat Jacket ",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 234,
+    "images": [
+      {
+        "src": "https://i.ibb.co.com/Xsv3DWB/Image-11.png"
+      },
+      {
+        "src": "https://i.ibb.co.com/1fMYy47/Png-Item-2597366-1.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Ladies Jacket ",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 234,
+    "images": [
+      {
+        "src": "https://i.ibb.co.com/Xsv3DWB/Image-11.png"
+      },
+      {
+        "src": "https://i.ibb.co.com/1fMYy47/Png-Item-2597366-1.png"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Woman Leather Jacket",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 234,
+    "images": [
+      {
+        "src": "https://i.ibb.co.com/Xsv3DWB/Image-11.png"
+      },
+      {
+        "src": "https://i.ibb.co.com/1fMYy47/Png-Item-2597366-1.png"
+      }
+    ]
+  }
+]

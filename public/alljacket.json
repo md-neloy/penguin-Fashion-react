@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Snowboard Jacket",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 234,
+    "images": {
+      "src": "https://i.ibb.co.com/dj6KPc9/image-11.png"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Man Leather Jackets",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 234,
+    "images": {
+      "src": "https://i.ibb.co.com/QPS0BPs/Png-Item-2597366-1.png"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Man Casual Jackets",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 234,
+    "images": {
+      "src": "https://i.ibb.co.com/5BPkk6g/Vippng-1.png"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Yellow Coat Jacket ",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 234,
+    "images": {
+      "src": "https://i.ibb.co.com/LtJHvF9/Seek-Png-1.png"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Ladies Jacket ",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 234,
+    "images": {
+      "src": "https://i.ibb.co.com/cgkq6Zw/Toppng-1.png"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Woman Leather Jacket",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "price": 234,
+    "images": {
+      "src": "https://i.ibb.co.com/dJL71CT/Image-15.png"
+    }
+  }
+]
